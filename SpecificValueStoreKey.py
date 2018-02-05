@@ -1,6 +1,5 @@
 import pickle
 import sys
-import os
 
 def main(argv):
     input_file = open("myNumberFile.db", "rb")
