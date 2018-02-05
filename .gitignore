@@ -101,5 +101,5 @@ ENV/
 .mypy_cache/
 
 # Ligegyldige klasser
-.filen.txt
-.test.py
+!filen!.txt
+!test!.py
