@@ -6,7 +6,7 @@ This is needed for you to be able to compile and execute the files from the comm
 
 When that is done, clone this project locally to your pc in a directory.
 
-## Execution
+## Usage
 1. Go to the directory you cloned or downloaded the files to and open a terminal there.
 
 2. In the terminal you first write "python KeyValueStore.py", which executes the write and read functions in the file (with results showing in the terminal) and creates a binary file called myNumberFile.db.
