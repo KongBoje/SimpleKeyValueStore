@@ -15,6 +15,8 @@ When that is done, clone this project locally to your pc in a directory.
 
 4. If you want to try and only read a specific key with corresponding value you write "python SpecificValueStoreKey.py 1". You can use the number from 1 to 6 here.
 
+5. If you have docker installed in a virtual machine and want to run it there instead, you have to make the files from scratch.
+
 
 ## Ekstra information
 Pickle is a module which implements binary protocols for serializing and de-serializing a Python object structure.
