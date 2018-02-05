@@ -13,7 +13,7 @@ When that is done, clone this project locally to your pc in a directory.
 
 3. If you try and write xxd myNumberFile.db It'll show you the content inside the binary file.
 
-4. If you want to try and only find a specific key with corresponding value you write "python SpecificValueStoreKey.py 1". You can use the number from 1 to 6 here.
+4. If you want to try and only read a specific key with corresponding value you write "python SpecificValueStoreKey.py 1". You can use the number from 1 to 6 here.
 
 
 ## Ekstra information
